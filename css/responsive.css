@@ -1,0 +1,332 @@
+/* ------------------------ 
+    Max Width 1280px 
+------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ 
+    Max Width 1080px 
+------------------------ */
+@media (max-width: 1080px) {
+
+}
+/* ------------------------ 
+    Max Width 1024px 
+------------------------ */
+@media (max-width: 1024px) {
+.head_banner {
+    height: 710px;
+}
+.menu {
+    padding: 30px 0px;
+}
+.banner .img_sec {
+    width: 540px;
+    height: 350px;
+}
+.video_slider #vid_slider {
+    width: 70%;
+}
+.feature .feature_wrap .grid {
+    padding: 30px;
+}
+.feature .feature_wrap .grid.details {
+    padding-top: 10px;
+}
+.feature .feature_wrap .grid.img_sec .short_div {
+    padding: 30px;
+}
+}
+/* ------------------------ 
+    Min Width 1000px 
+------------------------ */
+@media (min-width: 1000px) {
+
+}
+/* ------------------------ 
+    Max Width 966px 
+------------------------ */
+@media (max-width: 966px) {
+.banner .content h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    line-height: 34px;
+}
+.banner .content h1 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.banner .content .btn_1 {
+    margin-bottom:10px;
+}
+.feature .feature_wrap .grid {
+    padding: 15px;
+}
+.feature .feature_wrap .grid.details h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.feature .feature_wrap .grid.details p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.feature .feature_wrap .grid.details ul li {
+    font-size: 14px;
+    line-height: 24px;
+}
+.testimonial .grid_right #testi_slider .item ul li {
+    padding:20px;
+}
+.footer .content {
+    width: 60%;
+}
+.add_ban h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.testimonial .grid_left h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+}
+/* ------------------------ 
+    Max Width 853px 
+------------------------ */
+@media (max-width: 853px) {
+
+}
+/* ------------------------ 
+    Max Width 800px 
+------------------------ */
+@media (max-width: 800px) {
+
+}
+/* ------------------------ 
+    Min Width 769px 
+------------------------ */
+@media (min-width: 769px) {
+
+}
+/* ------------------------ 
+    Max Width 768px 
+------------------------ */
+@media (max-width: 768px) {
+.banner .img_sec {
+    width: 320px;
+    height: 210px;
+}
+.head_banner {
+    height: 610px;
+}
+}
+/* ------------------------ 
+    Max Width 736px 
+------------------------ */
+@media (max-width: 736px) {
+.testimonial .grid_left {
+    margin-bottom: 3em;
+    text-align:center;
+}
+.testimonial .grid_left .rating-xs {
+    margin-bottom: 0px;
+}
+.add_ban .img_sec {
+    position: relative;
+    right: 0;
+    width: 100%;
+    text-align: right;
+}
+.add_ban .img_sec img {
+    width: 45%;
+}
+.feature .feature_wrap .grid.details h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.banner .img_sec {
+    display: none;
+}
+.head_banner {
+    height: 510px;
+}
+.banner .content .btn_1 {
+    margin-bottom: 0px;
+}
+.video_slider #vid_slider {
+    width: 100%;
+}
+.video_slider #vid_slider .owl-nav .owl-prev {
+    left: 10px;
+}
+.video_slider #vid_slider .owl-nav .owl-next {
+    right: 10px;
+}
+}
+/* ------------------------ 
+    Max Width 720px 
+------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ 
+    Max Width 690px 
+------------------------ */
+@media (max-width: 690px) {
+
+}
+/* ------------------------ 
+    Max Width 667px 
+------------------------ */
+@media (max-width: 667px) {
+
+}
+/* ------------------------ 
+    Max Width 640px 
+------------------------ */
+@media (max-width: 640px) {
+
+}
+/* ------------------------ 
+    Max Width 603px 
+------------------------ */
+@media (max-width: 603px) {
+
+}
+/* ------------------------ 
+    Max Width 600px 
+------------------------ */
+@media (max-width: 600px) {
+.head_banner {
+    height: 450px;
+}
+.banner .content h1 {
+    font-size: 20px;
+    line-height: 20px;
+}
+.banner .content h3 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.banner .content p {
+    font-size: 13px;
+    line-height: 23px;
+    margin-bottom: 20px;
+}
+.feature .feature_wrap .grid.img_sec .short_div {
+    padding: 10px;
+}
+.feature .feature_wrap .grid.img_sec .screenshots_img_bg {
+    border-radius: 10px;
+}
+.feature .feature_wrap .grid.img_sec .screenshots_img_bg2 {
+    border-radius: 10px;
+}
+}
+/* ------------------------ 
+    Max Width 568px 
+------------------------ */
+@media (max-width: 568px) {
+
+}
+/* ------------------------ 
+    Max Width 533px 
+------------------------ */
+@media (max-width: 533px) {
+.footer .content {
+    width: 100%;
+}
+}
+/* ------------------------ 
+    Max Width 480px 
+------------------------ */
+@media (max-width: 480px) {
+.banner .content {
+    text-align: center;
+}
+.banner .content .btn_1 {
+    margin-bottom:1em;
+}
+.boxi .content {
+    width: 450px;
+}
+}
+/* ------------------------ 
+    Max Width 414px 
+------------------------ */
+@media (max-width: 414px) {
+.feature .feature_wrap .grid {
+    flex-basis: 100%;
+}
+.feature .feature_wrap .grid.img_sec {
+    margin-bottom: 2em;
+}
+.feature {
+    padding: 0px;
+}
+.add_ban .img_sec img {
+    width: 60%;
+}
+.add_ban {
+    padding-bottom:0px;
+}
+.boxi .content {
+    width: 390px;
+    height:390px;
+}
+.menu {
+    padding: 10px 0px;
+}
+.head_banner {
+    height: 580px;
+}
+}
+/* ------------------------ 
+    Max Width 375px 
+------------------------ */
+@media (max-width: 375px) {
+.boxi .content {
+    width: 360px;
+    height:360px;
+}
+}
+/* ------------------------ 
+    Max Width 320px 
+------------------------ */
+@media (max-width: 320px) {
+.boxi .content {
+    width: 290px;
+    height: auto;
+    padding: 60px;
+}
+.boxi .content .top_sec .listi .img_sec,
+.boxi .content .right_sec .listi .img_sec,
+.boxi .content .left_sec .listi .img_sec,
+.boxi .content .bottom_sec .listi .img_sec {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+.boxi .content .top_sec .listi {
+    height: 50px;
+    padding: 10px 50px 10px 10px;
+}
+.boxi .content .bottom_sec .listi {
+    padding: 10px 10px 10px 50px;
+    height:50px;
+}
+.boxi .content .right_sec,
+.boxi .content .left_sec {
+    width: 50px;
+    top: 60px;
+}
+.boxi .content .right_sec .listi span,
+.boxi .content .left_sec .listi span {
+    line-height:70px;
+    font-size:10px;
+}
+.boxi .content .top_sec .listi span,
+.boxi .content .bottom_sec .listi span {
+    line-height:20px;
+    font-size:10px;
+}
+}
